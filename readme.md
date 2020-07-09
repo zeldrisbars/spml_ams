@@ -7,5 +7,7 @@
 </p>
 <p>
 This project uses Laravel Framework, if you don't know how to configure, you should not to use it.
+</p>
+<p>
 I will update this project this coming August 2020 or beyond. 
 </p>
